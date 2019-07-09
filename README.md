@@ -1,3 +1,3 @@
-# 选择你的语言
-# Choose Language
+* [中文](zh/)
+* [English](en/)
 
